@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MemoGame">
         <activity
-            android:name=".FullscreenActivity"
+            android:name=".MainAndOnlyActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
             android:label="@string/app_name"
